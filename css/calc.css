@@ -1,0 +1,74 @@
+*{
+	padding: 0;
+	margin: 0;
+	outline: 0;
+}
+
+
+a,a:hover,a:focus,a:visited, {
+	outline: 0;
+	margin: 0;
+}
+
+p {
+	padding: 0;
+	margin: 0;
+}
+
+
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+/*.mob_320 {
+	max-width: 1100px;
+	text-align: center;
+	display: table-cell;
+}*/
+
+.opretion {
+	box-sizing: border-box;
+	width: 100%;
+	float: left;
+}
+
+.input input {
+	width: 100%;
+	padding-bottom: 10px;
+	margin-bottom: 5px;
+	text-align: right;
+}
+
+.opretion input {
+	
+}
+
+.mob_320 .left {
+	width: 45%;
+
+}
+
+.mob_320 .left input {
+	width: 32%;
+	height: 40px;
+}
+
+.mob_320 .middle {
+	width: 45%;
+}
+
+.mob_320 .middle input {
+	width: 32%;
+	height: 40px;
+}
+
+.mob_320 .right {
+	width: 10%;
+}
+
+.mob_320 .right input {
+	width: 100%;
+	height: 40px;
+}
